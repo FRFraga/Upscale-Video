@@ -1,7 +1,7 @@
 # 🖼️ Real-ESRGAN Video Upscaler com Áudio 🎥🎶
 
 ![Python](https://img.shields.io/badge/Python-3.11+-blue?logo=python)
-![License](https://img.shields.io/github/license/seu-usuario/seu-repositorio)
+![License](https://img.shields.io/github/license/FRFraga/Upscale-Video)
 ![Platform](https://img.shields.io/badge/Platform-Windows%2010%2B-lightgrey)
 ![Status](https://img.shields.io/badge/Status-Estável-brightgreen)
 
@@ -107,6 +107,6 @@ Distribuído sob a licença MIT. Veja `LICENSE` para mais detalhes.
 
 ## 🌐 Rodapé de orgulho
 
-![GitHub repo size](https://img.shields.io/github/repo-size/seu-usuario/seu-repositorio)
-![GitHub last commit](https://img.shields.io/github/last-commit/seu-usuario/seu-repositorio)
+![Repo size](https://img.shields.io/github/repo-size/FRFraga/Upscale-Video)
+![Last commit](https://img.shields.io/github/last-commit/FRFraga/Upscale-Video)
 ![Made with ❤️](https://img.shields.io/badge/made%20with-%E2%9D%A4-red)
