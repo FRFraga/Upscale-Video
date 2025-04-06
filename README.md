@@ -95,7 +95,7 @@ O script irá:
 
 | Antes | Depois (IA) |
 |-------|-------------|
-| ![antes](https://via.placeholder.com/200x120?text=Antes) | ![depois](https://via.placeholder.com/200x120?text=Depois+IA) |
+| ![antes](https://imgur.com/r57HpWq) | ![depois](https://imgur.com/cCFBYnN) |
 
 ---
 
